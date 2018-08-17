@@ -16,7 +16,7 @@ int main(void)
   
     do
     {
-      char *args[100];                                        // To be passed to the execvp() function iiiiiiiiiiiiiiiiiii
+      char *args[100];                                        // To be passed to the execvp() function 
       char m[20][100];
       int num;
       cout<<"Enter the command to be executed\n";
